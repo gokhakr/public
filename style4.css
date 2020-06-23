@@ -1,0 +1,22 @@
+body
+
+#1
+{
+color: aqua;
+}
+#2
+{
+color: RebeccaPurple;
+}
+h1
+{ 
+color: purple;
+font-size: 30px;
+border: 2px solid turquoise;
+}
+h2
+{ 
+color: purple;
+font-size: 20px;
+border: 4px solid green;
+}
