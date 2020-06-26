@@ -1,0 +1,22 @@
+body
+{
+color: white;
+ 	background: url("https://avatars.mds.yandex.net/get-pdb/2496928/3f299bc9-1570-4966-bd0d-ca3f44f2ba7b/s1200?webp=false");
+	background-repeat: no repeat;
+	background-size: cover;
+font-size: 15px;
+#r
+{
+color: white;
+}
+#e
+{
+color: RebeccaPurple;
+}
+h1
+{ 
+color: purple;
+font-size: 30px;
+border: 2px solid blue;
+}
+}
