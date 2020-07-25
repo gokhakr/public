@@ -1,0 +1,48 @@
+body
+{
+    background-color: plum;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+
+}
+h1
+{
+    color: rgb(85, 15, 85);
+}
+h3
+{
+    color:purple;
+}
+h4
+{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.nav
+{
+    margin-left: 700px;
+    
+    margin-bottom: 50px;
+    display: flex;
+}
+.nav1
+{
+    font-size: 20px;
+    margin-top: -60px;
+    width: 120px;
+    border-color: rebeccapurple;
+    transition: background-color 0,5s;
+}
+.nav1:hover {
+    background-color: lawngreen;
+}
+.bq
+{
+    color: rgb(224, 28, 87);
+    font-size: 50px;
+}
+.bq:hover {
+    background-color: rgb(70, 62, 190);
+}
